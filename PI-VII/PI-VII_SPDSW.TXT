@@ -1,0 +1,65 @@
+=========================================================================
+ Documentação de Projeto e Controle de Alterações
+=======================================================================
+
+  Empresa     :
+  Projeto     :
+  Cliente     :
+  Analista    :
+  Controlador :               Firmware: x.x.xx
+  Ambiente    : SPDSW         Versão: x.x.xx
+
+=======================================================================
+
+
+============================
+1. Controle de Alterações
+============================
+
+Obs:  Use B- para indicar correção de bugs
+	        F- para indicar nova funcionalidade
+          I- para indicar uma melhoria de funcionalidade
+
+
+1. Controle de Alterações
+===========================
+
+---------------------------------------------------------------------
+Versão: 1.00 Data: dd/mmm/yyyy    Resp.:
+
+Compatibilidade: integral
+
+Descrição das Alterações:
+
+F- Versão original
+
+Data: dd/mm/2010  Resp.:
+F- digite aqui as novas funcionalidades, melhorias e correções de bugs
+   realizados nesta versão. Inicie cada novo paragrafo com uma das
+   letras indicadas na tabela acima.
+
+
+============================
+2. Documentação de Projeto
+============================
+
+
+2.1 - Descrição funcional
+-------------------------
+
+
+2.2 - Requisitos de Entrada
+---------------------------
+
+
+2.3 - Caracteristicas de Saída
+------------------------------
+
+
+2.4 - Testes Aplicados
+----------------------
+
+
+2.5 - Testes de Validação
+-------------------------
+
