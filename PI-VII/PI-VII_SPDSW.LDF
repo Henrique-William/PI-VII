@@ -6,7 +6,16 @@
 Definição de variáveis 
 @0002,1:
 Controle de temperatura 
-@0004,1:
-Vazao de Gás
-@0008,1:
-Volume de gás/min 
+@0006,1:
+Sistema de Seguraça 
+Se a vazão de de Gás for maior que definida 
+@0010,1:
+Se a temperatura (m3) for maior que a pressao definida 10 == 1000 
+- Ativa sistema de segurança 
+@0014,1:
+Se pressão interna do Forno >= que 10 bar (x100) 
+@0018,1:
+Hard reset do sistema 
+@0029,1:
+Reinicializando o forno 
+ 
