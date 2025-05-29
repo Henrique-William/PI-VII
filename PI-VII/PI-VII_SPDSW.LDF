@@ -4,18 +4,18 @@
 
 @0000,1:
 Definição de variáveis 
-@0002,1:
+@0016,1:
 Controle de temperatura 
-@0006,1:
+@0019,1:
 Sistema de Seguraça 
 Se a vazão de de Gás for maior que definida 
-@0010,1:
+@0024,1:
 Se a temperatura (m3) for maior que a pressao definida 10 == 1000 
 - Ativa sistema de segurança 
-@0014,1:
+@0028,1:
 Se pressão interna do Forno >= que 10 bar (x100) 
-@0018,1:
+@0031,1:
 Hard reset do sistema 
-@0029,1:
+@0043,1:
 Reinicializando o forno 
  
